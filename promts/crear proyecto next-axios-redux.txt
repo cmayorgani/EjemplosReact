@@ -1,0 +1,10 @@
+Quiero crear un proyecto en next.js con typescript+redux+axios+react-bootstrap.
+Generar menu de hamburgueza izquierdo de navegaci[on y menu superior a la derecha para contexto global.
+Generar pantalla de login que incluya login, clave y una seleccion de empresa, logo al lado izquierdo, acceso para registrarse y acceso para cambiar y/o recuperar clave.
+Generar pantalla de recuperar clave enviando un token al email.
+Generar pantalla de cambio de clave, esta debe ser cambiada ya haiendo ingresado.
+Generar pantalla de perfil de usuario.
+pantalla del menu global y crear adicional una pantalla para la administracion de usuarios.
+uso pnpm y usa app router.
+uso src como carpeta inicial.
+dame al inicio la estructura del proyecto.
